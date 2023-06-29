@@ -1,0 +1,38 @@
+.sideBar {
+    background-color: #272c34;
+    color: #fff;
+    width: 250px;
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .sideBar .navbar {
+    border-bottom: none;
+    margin-bottom: 20px;
+  }
+  
+  .sideBar .nav-link {
+    color: #fff;
+}
+
+.sideBar .nav-link:hover {
+    color: #f5f5f5;
+}
+
+.sideBar .nav-link.active {
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .sideBar .nav-dropdown-menu {
+    background-color: #1e222b;
+  }
+  
+  .sideBar .nav-dropdown-item {
+    color: #fff;
+  }
+  
+  .sideBar .nav-dropdown-item:hover {
+    background-color: #16181f;
+  }
+  
